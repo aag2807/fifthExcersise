@@ -1,0 +1,99 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "ObjectDumper.NET/3.3.7": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/ObjectDumping.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/ObjectDumping.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ObjectDumper.NET/3.3.7": {
+      "sha512": "D8ziu5UwCMfxyJO6YUi5g2jIiEjOv23PqA6jrZcsZqm/QNhq29mdAH5h/Ef6P+c8TW+Iwe95vBq1wdPY6/2r6A==",
+      "type": "package",
+      "path": "objectdumper.net/3.3.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/ObjectDumping.dll",
+        "lib/netstandard1.2/ObjectDumping.dll",
+        "lib/netstandard2.0/ObjectDumping.dll",
+        "lib/netstandard2.1/ObjectDumping.dll",
+        "objectdumper.net.3.3.7.nupkg.sha512",
+        "objectdumper.net.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "ObjectDumper.NET >= 3.3.7"
+    ]
+  },
+  "packageFolders": {
+    "/Users/admin/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/admin/Documents/net/fifth-excersise/fifth-excersise.csproj",
+      "projectName": "fifth-excersise",
+      "projectPath": "/Users/admin/Documents/net/fifth-excersise/fifth-excersise.csproj",
+      "packagesPath": "/Users/admin/.nuget/packages/",
+      "outputPath": "/Users/admin/Documents/net/fifth-excersise/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/admin/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "ObjectDumper.NET": {
+            "target": "Package",
+            "version": "[3.3.7, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

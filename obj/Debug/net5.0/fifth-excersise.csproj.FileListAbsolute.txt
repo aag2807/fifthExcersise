@@ -1,0 +1,17 @@
+/Users/admin/Documents/net/fifth-excersise/obj/Debug/net5.0/fifth-excersise.csproj.AssemblyReference.cache
+/Users/admin/Documents/net/fifth-excersise/obj/Debug/net5.0/fifth-excersise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/net/fifth-excersise/obj/Debug/net5.0/fifth-excersise.AssemblyInfoInputs.cache
+/Users/admin/Documents/net/fifth-excersise/obj/Debug/net5.0/fifth-excersise.AssemblyInfo.cs
+/Users/admin/Documents/net/fifth-excersise/obj/Debug/net5.0/fifth-excersise.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/net/fifth-excersise/bin/Debug/net5.0/fifth-excersise.deps.json
+/Users/admin/Documents/net/fifth-excersise/bin/Debug/net5.0/fifth-excersise.runtimeconfig.json
+/Users/admin/Documents/net/fifth-excersise/bin/Debug/net5.0/fifth-excersise.runtimeconfig.dev.json
+/Users/admin/Documents/net/fifth-excersise/bin/Debug/net5.0/fifth-excersise.dll
+/Users/admin/Documents/net/fifth-excersise/bin/Debug/net5.0/ref/fifth-excersise.dll
+/Users/admin/Documents/net/fifth-excersise/bin/Debug/net5.0/fifth-excersise.pdb
+/Users/admin/Documents/net/fifth-excersise/obj/Debug/net5.0/fifth-excersise.dll
+/Users/admin/Documents/net/fifth-excersise/obj/Debug/net5.0/ref/fifth-excersise.dll
+/Users/admin/Documents/net/fifth-excersise/obj/Debug/net5.0/fifth-excersise.pdb
+/Users/admin/Documents/net/fifth-excersise/obj/Debug/net5.0/fifth-excersise.genruntimeconfig.cache
+/Users/admin/Documents/net/fifth-excersise/bin/Debug/net5.0/ObjectDumping.dll
+/Users/admin/Documents/net/fifth-excersise/obj/Debug/net5.0/fifth-excersise.csproj.CopyComplete

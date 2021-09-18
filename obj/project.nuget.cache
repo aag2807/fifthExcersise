@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zax+EclbrbVxcoPSVItsf3dZn7aEK3FmVnydN3ErZEIJaO14R0hQjVBc7uOMtTcq7XdhzlllaeMQY+Z2Oci/Tg==",
+  "success": true,
+  "projectFilePath": "/Users/admin/Documents/net/fifth-excersise/fifth-excersise.csproj",
+  "expectedPackageFiles": [
+    "/Users/admin/.nuget/packages/objectdumper.net/3.3.7/objectdumper.net.3.3.7.nupkg.sha512"
+  ],
+  "logs": []
+}

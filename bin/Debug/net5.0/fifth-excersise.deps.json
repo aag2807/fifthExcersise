@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "fifth-excersise/1.0.0": {
+        "dependencies": {
+          "ObjectDumper.NET": "3.3.7"
+        },
+        "runtime": {
+          "fifth-excersise.dll": {}
+        }
+      },
+      "ObjectDumper.NET/3.3.7": {
+        "runtime": {
+          "lib/netstandard2.1/ObjectDumping.dll": {
+            "assemblyVersion": "3.3.7.0",
+            "fileVersion": "3.3.7.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fifth-excersise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ObjectDumper.NET/3.3.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-D8ziu5UwCMfxyJO6YUi5g2jIiEjOv23PqA6jrZcsZqm/QNhq29mdAH5h/Ef6P+c8TW+Iwe95vBq1wdPY6/2r6A==",
+      "path": "objectdumper.net/3.3.7",
+      "hashPath": "objectdumper.net.3.3.7.nupkg.sha512"
+    }
+  }
+}
